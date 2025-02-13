@@ -1,0 +1,9 @@
+flask_jwt_extended
+flask
+flask_restful
+flask_sqlalchemy
+requests
+customtkinter 
+openpyxl
+CTkMessagebox
+pyzbar
